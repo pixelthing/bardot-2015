@@ -1,0 +1,245 @@
+﻿{
+	"products": [
+		{
+			"ArtNo": "131127",
+			"Name": "Hydraulisk gaffelvagn, 1600 kg",
+			"Price": 2195,
+			"Short": "Marknadens lättaste och smidigaste Hydrauliska gaffellyftvagn.",
+			"IsBasic": false,
+			"IsNew": true,
+			"featuredTag": "Kontor"
+		},
+		{
+			"ArtNo": "242011",
+			"Name": "Event fällbart ståbord med överdrag och topp, svart",
+			"Price": 995,
+			"Short": "Ett hopfällbart ståbord med överdrag och topp.",
+			"IsBasic": false,
+			"IsCampaign": true,
+			"featuredTag": "Kampanj"
+		},
+		{
+			"ArtNo": "121215",
+			"Name": "Komplett grenställ, höjd 2000 mm",
+			"Price": 6995,
+			"CampaignPrice": 11995,
+			"Short": "Detta grenställ passar för gods med relativt låg vikt tex.lister, plaströr, lättare stålgods etc. Bredd 2x1500 mm, armlängd 400 mm.",
+			"IsBasic": false,
+			"IsCampaign": true,
+			"IsNew": true,
+			"featuredTag": "Kontor"
+		},
+		{
+			"ArtNo": "136375",
+			"Name": "Konfektionsställ, grå",
+			"Price": 1975,
+			"Short": "Praktiskt och tålig förvaring för kläder. 1700x600x1700 mm, vikt 19 kg.",
+			"IsBasic": true,
+			"IsCampaign": true,
+			"IsNew": true,
+			"featuredTag": "Industri"
+		},
+		{
+			"ArtNo": "131127",
+			"Name": "Hydraulisk gaffelvagn, 1600 kg",
+			"Price": 2195,
+			"Short": "Marknadens lättaste och smidigaste Hydrauliska gaffellyftvagn.",
+			"IsBasic": false,
+			"featuredTag": "Industri"
+		},
+		{
+			"ArtNo": "131018",
+			"Name": "Hyllställ 1780x915x466 mm",
+			"Price": 2195,
+			"Short": "Kraftigt hyllställ som är enkelt att montera, helt utan skruvar.",
+			"IsBasic": false,
+			"IsCampaign": true,
+			"featuredTag": "Kampanj"
+		},
+		{
+			"ArtNo": "131018",
+			"Name": "Hyllställ 1780x915x466 mm",
+			"Price": 2195,
+			"Short": "Kraftigt hyllställ som är enkelt att montera, helt utan skruvar.",
+			"IsBasic": true,
+			"featuredTag": "Kontor"
+		},
+		{
+			"ArtNo": "121215",
+			"Name": "Komplett grenställ, höjd 2000 mm",
+			"Price": 6995,
+			"Short": "Detta grenställ passar för gods med relativt låg vikt tex.lister, plaströr, lättare stålgods etc. Bredd 2x1500 mm, armlängd 400 mm.",
+			"IsBasic": true,
+			"featuredTag": ""
+		},
+		{
+			"ArtNo": "136375",
+			"Name": "Konfektionsställ, grå",
+			"Price": 1975,
+			"Short": "Praktiskt och tålig förvaring för kläder. 1700x600x1700 mm, vikt 19 kg.",
+			"IsBasic": false,
+			"featuredTag": ""
+		},
+		
+
+
+		{
+			"ArtNo": "131127",
+			"Name": "Hydraulisk gaffelvagn, 1600 kg",
+			"Price": 2195,
+			"Short": "Marknadens lättaste och smidigaste Hydrauliska gaffellyftvagn.",
+			"IsBasic": false,
+			"IsNew": true,
+			"featuredTag": "Kontor"
+		},
+		{
+			"ArtNo": "242011",
+			"Name": "Event fällbart ståbord med överdrag och topp, svart",
+			"Price": 995,
+			"Short": "Ett hopfällbart ståbord med överdrag och topp.",
+			"IsBasic": false,
+			"IsCampaign": true,
+			"featuredTag": "Kampanj"
+		},
+		{
+			"ArtNo": "121215",
+			"Name": "Komplett grenställ, höjd 2000 mm",
+			"Price": 6995,
+			"Short": "Detta grenställ passar för gods med relativt låg vikt tex.lister, plaströr, lättare stålgods etc. Bredd 2x1500 mm, armlängd 400 mm.",
+			"IsBasic": false,
+			"IsCampaign": false,
+			"IsNew": true,
+			"featuredTag": "Kontor"
+		},
+		{
+			"ArtNo": "136375",
+			"Name": "Konfektionsställ, grå",
+			"Price": 1975,
+			"Short": "Praktiskt och tålig förvaring för kläder. 1700x600x1700 mm, vikt 19 kg.",
+			"IsBasic": true,
+			"IsCampaign": false,
+			"IsNew": true,
+			"featuredTag": "Industri"
+		},
+		{
+			"ArtNo": "131127",
+			"Name": "Hydraulisk gaffelvagn, 1600 kg",
+			"Price": 2195,
+			"Short": "Marknadens lättaste och smidigaste Hydrauliska gaffellyftvagn.",
+			"IsBasic": false,
+			"featuredTag": "Industri"
+		},
+		{
+			"ArtNo": "131018",
+			"Name": "Hyllställ 1780x915x466 mm",
+			"Price": 2195,
+			"Short": "Kraftigt hyllställ som är enkelt att montera, helt utan skruvar.",
+			"IsBasic": false,
+			"IsCampaign": true,
+			"featuredTag": "Kampanj"
+		},
+		{
+			"ArtNo": "131018",
+			"Name": "Hyllställ 1780x915x466 mm",
+			"Price": 2195,
+			"Short": "Kraftigt hyllställ som är enkelt att montera, helt utan skruvar.",
+			"IsBasic": true,
+			"featuredTag": "Kontor"
+		},
+		{
+			"ArtNo": "121215",
+			"Name": "Komplett grenställ, höjd 2000 mm",
+			"Price": 6995,
+			"Short": "Detta grenställ passar för gods med relativt låg vikt tex.lister, plaströr, lättare stålgods etc. Bredd 2x1500 mm, armlängd 400 mm.",
+			"IsBasic": false,
+			"featuredTag": ""
+		},
+		{
+			"ArtNo": "136375",
+			"Name": "Konfektionsställ, grå",
+			"Price": 1975,
+			"Short": "Praktiskt och tålig förvaring för kläder. 1700x600x1700 mm, vikt 19 kg.",
+			"IsBasic": false,
+			"featuredTag": ""
+		},
+		{
+			"ArtNo": "131127",
+			"Name": "Hydraulisk gaffelvagn, 1600 kg",
+			"Price": 2195,
+			"Short": "Marknadens lättaste och smidigaste Hydrauliska gaffellyftvagn.",
+			"IsBasic": false,
+			"IsNew": true,
+			"featuredTag": "Kontor"
+		},
+		{
+			"ArtNo": "242011",
+			"Name": "Event fällbart ståbord med överdrag och topp, svart",
+			"Price": 995,
+			"Short": "Ett hopfällbart ståbord med överdrag och topp.",
+			"IsBasic": false,
+			"IsCampaign": true,
+			"featuredTag": "Kampanj"
+		},
+		{
+			"ArtNo": "121215",
+			"Name": "Komplett grenställ, höjd 2000 mm",
+			"Price": 6995,
+			"Short": "Detta grenställ passar för gods med relativt låg vikt tex.lister, plaströr, lättare stålgods etc. Bredd 2x1500 mm, armlängd 400 mm.",
+			"IsBasic": false,
+			"IsCampaign": false,
+			"IsNew": true,
+			"featuredTag": "Kontor"
+		},
+		{
+			"ArtNo": "136375",
+			"Name": "Konfektionsställ, grå",
+			"Price": 1975,
+			"Short": "Praktiskt och tålig förvaring för kläder. 1700x600x1700 mm, vikt 19 kg.",
+			"IsBasic": true,
+			"IsCampaign": false,
+			"IsNew": true,
+			"featuredTag": "Industri"
+		},
+		{
+			"ArtNo": "131127",
+			"Name": "Hydraulisk gaffelvagn, 1600 kg",
+			"Price": 2195,
+			"Short": "Marknadens lättaste och smidigaste Hydrauliska gaffellyftvagn.",
+			"IsBasic": false,
+			"featuredTag": "Industri"
+		},
+		{
+			"ArtNo": "131018",
+			"Name": "Hyllställ 1780x915x466 mm",
+			"Price": 2195,
+			"Short": "Kraftigt hyllställ som är enkelt att montera, helt utan skruvar.",
+			"IsBasic": false,
+			"IsCampaign": true,
+			"featuredTag": "Kampanj"
+		},
+		{
+			"ArtNo": "131018",
+			"Name": "Hyllställ 1780x915x466 mm",
+			"Price": 2195,
+			"Short": "Kraftigt hyllställ som är enkelt att montera, helt utan skruvar.",
+			"IsBasic": true,
+			"featuredTag": "Kontor"
+		},
+		{
+			"ArtNo": "121215",
+			"Name": "Komplett grenställ, höjd 2000 mm",
+			"Price": 6995,
+			"Short": "Detta grenställ passar för gods med relativt låg vikt tex.lister, plaströr, lättare stålgods etc. Bredd 2x1500 mm, armlängd 400 mm.",
+			"IsBasic": false,
+			"featuredTag": ""
+		},
+		{
+			"ArtNo": "136375",
+			"Name": "Konfektionsställ, grå",
+			"Price": 1975,
+			"Short": "Praktiskt och tålig förvaring för kläder. 1700x600x1700 mm, vikt 19 kg.",
+			"IsBasic": false,
+			"featuredTag": ""
+		}
+	]
+}

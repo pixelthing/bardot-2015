@@ -1,0 +1,15 @@
+{
+  "name": "bardot-2015",
+  "version": "0.0.0",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "html5shiv": "*",
+    "fastclick": "~1.0.3"
+  },
+  "devDependencies": {}
+}
