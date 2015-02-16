@@ -1,245 +1,110 @@
 ﻿{
-	"products": [
+	"spreads": [
 		{
-			"ArtNo": "131127",
-			"Name": "Hydraulisk gaffelvagn, 1600 kg",
-			"Price": 2195,
-			"Short": "Marknadens lättaste och smidigaste Hydrauliska gaffellyftvagn.",
-			"IsBasic": false,
-			"IsNew": true,
-			"featuredTag": "Kontor"
+			"id": 1,
+			"pages": [
+				{
+					"id": 1,
+					"type": "cover",
+					"title": "RAF Flying Review - Farnborough Special",
+					"synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tempus quam in felis convallis feugiat. Aliquam placerat varius nisl at mollis.",
+					"image": "page1.jpg",
+					"thumb": "page1.jpg"
+				}
+			]
 		},
 		{
-			"ArtNo": "242011",
-			"Name": "Event fällbart ståbord med överdrag och topp, svart",
-			"Price": 995,
-			"Short": "Ett hopfällbart ståbord med överdrag och topp.",
-			"IsBasic": false,
-			"IsCampaign": true,
-			"featuredTag": "Kampanj"
+			"id": 2,
+			"pages": [
+				{
+					"id": 2,
+					"type": "page",
+					"tags": "advert",
+					"title": "AEI advert",
+					"synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tempus quam in felis convallis feugiat. Aliquam placerat varius nisl at mollis.",
+					"image": "page2.jpg",
+					"thumb": "page2.jpg"
+				},
+				{
+					"id": 3,
+					"type": "page",
+					"tags": "advert",
+					"title": "Radio and TV servicing handbook adverts",
+					"synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tempus quam in felis convallis feugiat. Aliquam placerat varius nisl at mollis.",
+					"image": "page3.jpg",
+					"thumb": "page3.jpg"
+				}
+			]
 		},
 		{
-			"ArtNo": "121215",
-			"Name": "Komplett grenställ, höjd 2000 mm",
-			"Price": 6995,
-			"CampaignPrice": 11995,
-			"Short": "Detta grenställ passar för gods med relativt låg vikt tex.lister, plaströr, lättare stålgods etc. Bredd 2x1500 mm, armlängd 400 mm.",
-			"IsBasic": false,
-			"IsCampaign": true,
-			"IsNew": true,
-			"featuredTag": "Kontor"
-		},
-		{
-			"ArtNo": "136375",
-			"Name": "Konfektionsställ, grå",
-			"Price": 1975,
-			"Short": "Praktiskt och tålig förvaring för kläder. 1700x600x1700 mm, vikt 19 kg.",
-			"IsBasic": true,
-			"IsCampaign": true,
-			"IsNew": true,
-			"featuredTag": "Industri"
-		},
-		{
-			"ArtNo": "131127",
-			"Name": "Hydraulisk gaffelvagn, 1600 kg",
-			"Price": 2195,
-			"Short": "Marknadens lättaste och smidigaste Hydrauliska gaffellyftvagn.",
-			"IsBasic": false,
-			"featuredTag": "Industri"
-		},
-		{
-			"ArtNo": "131018",
-			"Name": "Hyllställ 1780x915x466 mm",
-			"Price": 2195,
-			"Short": "Kraftigt hyllställ som är enkelt att montera, helt utan skruvar.",
-			"IsBasic": false,
-			"IsCampaign": true,
-			"featuredTag": "Kampanj"
-		},
-		{
-			"ArtNo": "131018",
-			"Name": "Hyllställ 1780x915x466 mm",
-			"Price": 2195,
-			"Short": "Kraftigt hyllställ som är enkelt att montera, helt utan skruvar.",
-			"IsBasic": true,
-			"featuredTag": "Kontor"
-		},
-		{
-			"ArtNo": "121215",
-			"Name": "Komplett grenställ, höjd 2000 mm",
-			"Price": 6995,
-			"Short": "Detta grenställ passar för gods med relativt låg vikt tex.lister, plaströr, lättare stålgods etc. Bredd 2x1500 mm, armlängd 400 mm.",
-			"IsBasic": true,
-			"featuredTag": ""
-		},
-		{
-			"ArtNo": "136375",
-			"Name": "Konfektionsställ, grå",
-			"Price": 1975,
-			"Short": "Praktiskt och tålig förvaring för kläder. 1700x600x1700 mm, vikt 19 kg.",
-			"IsBasic": false,
-			"featuredTag": ""
-		},
-		
+			"id": 3,
+			"pages": [
+				{
 
-
-		{
-			"ArtNo": "131127",
-			"Name": "Hydraulisk gaffelvagn, 1600 kg",
-			"Price": 2195,
-			"Short": "Marknadens lättaste och smidigaste Hydrauliska gaffellyftvagn.",
-			"IsBasic": false,
-			"IsNew": true,
-			"featuredTag": "Kontor"
+					"id": 4,
+					"type": "page",
+					"tags": "advert",
+					"title": "Handley Page advert",
+					"synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tempus quam in felis convallis feugiat. Aliquam placerat varius nisl at mollis.",
+					"image": "page4.jpg",
+					"thumb": "page4.jpg"
+				},
+				{
+					"id": 5,
+					"type": "page",
+					"tags": "advert",
+					"title": "Cossor advert",
+					"synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tempus quam in felis convallis feugiat. Aliquam placerat varius nisl at mollis.",
+					"image": "page5.jpg",
+					"thumb": "page5.jpg"
+				}
+			]
 		},
 		{
-			"ArtNo": "242011",
-			"Name": "Event fällbart ståbord med överdrag och topp, svart",
-			"Price": 995,
-			"Short": "Ett hopfällbart ståbord med överdrag och topp.",
-			"IsBasic": false,
-			"IsCampaign": true,
-			"featuredTag": "Kampanj"
+			"id": 4,
+			"pages": [
+				{
+					"id": 6,
+					"type": "page",
+					"tags": "advert",
+					"title": "English Electric advert",
+					"synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tempus quam in felis convallis feugiat. Aliquam placerat varius nisl at mollis.",
+					"image": "page6.jpg",
+					"thumb": "page6.jpg"
+				},
+				{
+					"id": 7,
+					"type": "page",
+					"tags": "advert",
+					"title": "Fokker advert",
+					"synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tempus quam in felis convallis feugiat. Aliquam placerat varius nisl at mollis.",
+					"image": "page7.jpg",
+					"thumb": "page7.jpg"
+				}
+			]
 		},
 		{
-			"ArtNo": "121215",
-			"Name": "Komplett grenställ, höjd 2000 mm",
-			"Price": 6995,
-			"Short": "Detta grenställ passar för gods med relativt låg vikt tex.lister, plaströr, lättare stålgods etc. Bredd 2x1500 mm, armlängd 400 mm.",
-			"IsBasic": false,
-			"IsCampaign": false,
-			"IsNew": true,
-			"featuredTag": "Kontor"
-		},
-		{
-			"ArtNo": "136375",
-			"Name": "Konfektionsställ, grå",
-			"Price": 1975,
-			"Short": "Praktiskt och tålig förvaring för kläder. 1700x600x1700 mm, vikt 19 kg.",
-			"IsBasic": true,
-			"IsCampaign": false,
-			"IsNew": true,
-			"featuredTag": "Industri"
-		},
-		{
-			"ArtNo": "131127",
-			"Name": "Hydraulisk gaffelvagn, 1600 kg",
-			"Price": 2195,
-			"Short": "Marknadens lättaste och smidigaste Hydrauliska gaffellyftvagn.",
-			"IsBasic": false,
-			"featuredTag": "Industri"
-		},
-		{
-			"ArtNo": "131018",
-			"Name": "Hyllställ 1780x915x466 mm",
-			"Price": 2195,
-			"Short": "Kraftigt hyllställ som är enkelt att montera, helt utan skruvar.",
-			"IsBasic": false,
-			"IsCampaign": true,
-			"featuredTag": "Kampanj"
-		},
-		{
-			"ArtNo": "131018",
-			"Name": "Hyllställ 1780x915x466 mm",
-			"Price": 2195,
-			"Short": "Kraftigt hyllställ som är enkelt att montera, helt utan skruvar.",
-			"IsBasic": true,
-			"featuredTag": "Kontor"
-		},
-		{
-			"ArtNo": "121215",
-			"Name": "Komplett grenställ, höjd 2000 mm",
-			"Price": 6995,
-			"Short": "Detta grenställ passar för gods med relativt låg vikt tex.lister, plaströr, lättare stålgods etc. Bredd 2x1500 mm, armlängd 400 mm.",
-			"IsBasic": false,
-			"featuredTag": ""
-		},
-		{
-			"ArtNo": "136375",
-			"Name": "Konfektionsställ, grå",
-			"Price": 1975,
-			"Short": "Praktiskt och tålig förvaring för kläder. 1700x600x1700 mm, vikt 19 kg.",
-			"IsBasic": false,
-			"featuredTag": ""
-		},
-		{
-			"ArtNo": "131127",
-			"Name": "Hydraulisk gaffelvagn, 1600 kg",
-			"Price": 2195,
-			"Short": "Marknadens lättaste och smidigaste Hydrauliska gaffellyftvagn.",
-			"IsBasic": false,
-			"IsNew": true,
-			"featuredTag": "Kontor"
-		},
-		{
-			"ArtNo": "242011",
-			"Name": "Event fällbart ståbord med överdrag och topp, svart",
-			"Price": 995,
-			"Short": "Ett hopfällbart ståbord med överdrag och topp.",
-			"IsBasic": false,
-			"IsCampaign": true,
-			"featuredTag": "Kampanj"
-		},
-		{
-			"ArtNo": "121215",
-			"Name": "Komplett grenställ, höjd 2000 mm",
-			"Price": 6995,
-			"Short": "Detta grenställ passar för gods med relativt låg vikt tex.lister, plaströr, lättare stålgods etc. Bredd 2x1500 mm, armlängd 400 mm.",
-			"IsBasic": false,
-			"IsCampaign": false,
-			"IsNew": true,
-			"featuredTag": "Kontor"
-		},
-		{
-			"ArtNo": "136375",
-			"Name": "Konfektionsställ, grå",
-			"Price": 1975,
-			"Short": "Praktiskt och tålig förvaring för kläder. 1700x600x1700 mm, vikt 19 kg.",
-			"IsBasic": true,
-			"IsCampaign": false,
-			"IsNew": true,
-			"featuredTag": "Industri"
-		},
-		{
-			"ArtNo": "131127",
-			"Name": "Hydraulisk gaffelvagn, 1600 kg",
-			"Price": 2195,
-			"Short": "Marknadens lättaste och smidigaste Hydrauliska gaffellyftvagn.",
-			"IsBasic": false,
-			"featuredTag": "Industri"
-		},
-		{
-			"ArtNo": "131018",
-			"Name": "Hyllställ 1780x915x466 mm",
-			"Price": 2195,
-			"Short": "Kraftigt hyllställ som är enkelt att montera, helt utan skruvar.",
-			"IsBasic": false,
-			"IsCampaign": true,
-			"featuredTag": "Kampanj"
-		},
-		{
-			"ArtNo": "131018",
-			"Name": "Hyllställ 1780x915x466 mm",
-			"Price": 2195,
-			"Short": "Kraftigt hyllställ som är enkelt att montera, helt utan skruvar.",
-			"IsBasic": true,
-			"featuredTag": "Kontor"
-		},
-		{
-			"ArtNo": "121215",
-			"Name": "Komplett grenställ, höjd 2000 mm",
-			"Price": 6995,
-			"Short": "Detta grenställ passar för gods med relativt låg vikt tex.lister, plaströr, lättare stålgods etc. Bredd 2x1500 mm, armlängd 400 mm.",
-			"IsBasic": false,
-			"featuredTag": ""
-		},
-		{
-			"ArtNo": "136375",
-			"Name": "Konfektionsställ, grå",
-			"Price": 1975,
-			"Short": "Praktiskt och tålig förvaring för kläder. 1700x600x1700 mm, vikt 19 kg.",
-			"IsBasic": false,
-			"featuredTag": ""
+			"id": 5,
+			"pages": [
+				{
+					"id": 8,
+					"type": "page",
+					"tags": "advert",
+					"title": "Martin Baker advert",
+					"synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tempus quam in felis convallis feugiat. Aliquam placerat varius nisl at mollis.",
+					"image": "page8.jpg",
+					"thumb": "page8.jpg"
+				},
+				{
+					"id": 9,
+					"type": "page",
+					"tags": "advert",
+					"title": "Republic Aviation advert",
+					"synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam tempus quam in felis convallis feugiat. Aliquam placerat varius nisl at mollis.",
+					"image": "page9.jpg",
+					"thumb": "page9.jpg"
+				}
+			]
 		}
 	]
 }

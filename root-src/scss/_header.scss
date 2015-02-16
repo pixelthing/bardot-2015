@@ -1,0 +1,12 @@
+.bardot__header {
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    height: 2em;
+    background-color: rgba(255,255,255,0.9);
+
+    &__title {
+        display: none;
+    }
+}

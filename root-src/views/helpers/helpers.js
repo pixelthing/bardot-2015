@@ -13,9 +13,25 @@ module.exports.register = function (Handlebars, options)  {
 
   });
 
+  Handlebars.registerHelper("thumbHeight", function(ratio) {
+    var thumbHeight = Math.round( 100 * ratio );
+    return thumbHeight;
+  });
+
+  Handlebars.registerHelper('setLastSpread', function (value)  { 
+    console.log(value);
+    Handlebars.lastSpread = value;
+  });
+
   Handlebars.registerHelper('setVariable', function (name, value)  { 
     console.log(name, value);
     this[name] = value;
+  });
+
+  Handlebars.registerHelper('isEqual', function (val1, val2)  { 
+    if (val1 == val2) {
+      return true;
+    }
   });
 
   Handlebars.registerHelper('lastItem', function(context, block) {

@@ -1,6 +1,31 @@
 /*
-@import
-"../../bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_variables.scss";
+@import "../../bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_variables.scss";
 */
+body {
+  margin: 0;
+  box-sizing: border-box; }
+
+/* typography */
+body {
+  font-family: "helvetica neue",helvetica,arial,sans-serif;
+  font-size: 16px; }
+
+.bardot__body {
+  margin-top: 2em; }
+
+.bardot__header {
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  height: 2em;
+  background-color: rgba(255, 255, 255, 0.9); }
+  .bardot__header__title {
+    display: none; }
+
+.bardot__page {
+  background-color: #eee; }
+  .bardot__page__img {
+    max-width: 100%; }
 
 /*# sourceMappingURL=main.css.map */

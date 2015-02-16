@@ -1,0 +1,17 @@
+{
+	"version": "0.1",
+	"title": "RAF Flying Review - Farnborough Special - 1960",
+	"shortTitle": "Farnborough 1960",
+	"description": "Farnborough 1960",
+	"ratio": 1.239,
+	"datetime": "1960-09-01T00:00:00Z",
+	"icons": [{
+		"src": "img/icons/lo",
+		"sizes": "64x64"
+	}, {
+		"src": "img/icons/hi",
+		"sizes": "512x512"
+	}],
+	"start_url": "/root-dev",
+	"display": "standalone"
+}

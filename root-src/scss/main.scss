@@ -1,4 +1,8 @@
 ﻿/*
-@import
-"../../bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_variables.scss";
+@import "../../bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_variables.scss";
 */
+@import "_scaffold.scss";
+
+
+@import "_header.scss";
+@import "_page.scss";

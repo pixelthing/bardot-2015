@@ -1,0 +1,32 @@
+﻿<!doctype html>
+<html lang='en'>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{{ title }}</title>
+    <link rel="manifest" href="manifest.json">
+    <meta name="description" content="{{ synopsis }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#fff">
+
+    <link rel="stylesheet" href="{{ assets }}{{meta.start_url}}/css/main.css" />    
+    <!--[if lt IE 9]>
+        <script src="css/html5shiv.js"></script>
+    <![endif]-->
+
+</head>
+<body class="bardot__body">
+
+    {{> site-header }}
+
+    {{> body }}
+
+    {{> site-footer }}
+
+    <script src="{{ assets }}{{meta.start_url}}/js/main.js"></script>
+    {{#if dev}}
+    <script src="//localhost:35729/livereload.js"></script>
+    {{/if}}
+
+</body>
+</html>
